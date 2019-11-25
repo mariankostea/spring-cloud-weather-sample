@@ -1,4 +1,4 @@
-package com.endava.springcloud.weatherservice;
+package com.samples.springcloud.weatherservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

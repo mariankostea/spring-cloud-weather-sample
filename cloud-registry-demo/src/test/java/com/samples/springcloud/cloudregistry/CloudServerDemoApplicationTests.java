@@ -1,10 +1,10 @@
-package com.endava.springcloud.weatherclient;
+package com.samples.springcloud.cloudregistry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WeatherClientApplicationTests {
+class CloudServerDemoApplicationTests {
 
 	@Test
 	void contextLoads() {

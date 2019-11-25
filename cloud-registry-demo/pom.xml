@@ -8,8 +8,8 @@
 		<version>2.2.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.endava.springcloud</groupId>
-	<artifactId>cloud-server-demo</artifactId>
+	<groupId>com.samples.springcloud</groupId>
+	<artifactId>cloud-registry-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>cloud-server-demo</name>
 	<description>Demo project for Spring Boot</description>
