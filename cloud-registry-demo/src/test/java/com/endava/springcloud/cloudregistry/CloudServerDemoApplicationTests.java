@@ -1,4 +1,4 @@
-package com.endava.springcloud.cloudserverdemo;
+package com.endava.springcloud.cloudregistry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
