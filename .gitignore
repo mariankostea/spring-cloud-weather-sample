@@ -34,3 +34,7 @@ build/
 
 ### VS Code ###
 .vscode/
+/cloud-server-demo/.mvn/
+/weather-service/.mvn/
+/weather-client/.mvn/
+/.idea/libraries/

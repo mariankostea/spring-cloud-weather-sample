@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.endava.springcloud</groupId>
-	<artifactId>weather-service-2</artifactId>
+	<artifactId>weather-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>weather-service-2</name>
+	<name>weather-service</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
