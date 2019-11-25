@@ -11,7 +11,7 @@
 	<groupId>com.samples.springcloud</groupId>
 	<artifactId>cloud-registry-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cloud-server-demo</name>
+	<name>cloud-registry-demo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
